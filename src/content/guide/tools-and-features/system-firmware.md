@@ -182,7 +182,7 @@ particle flash --usb path/to/system-part3.bin
 ```
 
 
-#### Firmware Manger
+#### Firmware Manager
 The [Firmware Manager](/guide/tools-and-features/firmware-manager/) is a
 desktop application that upgrades your device to the latest system
 firmware. For Electrons, it provides an easy way to update system firmware while avoiding cellular data charges.
